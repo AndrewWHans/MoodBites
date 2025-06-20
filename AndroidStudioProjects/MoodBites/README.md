@@ -1,16 +1,33 @@
-# moodbites
+# MoodBites 🍽️💬
 
-A new Flutter project.
+> Track your mood one bite at a time.
 
-## Getting Started
+MoodBites is a cross-platform Flutter app that helps users track and reflect on their emotional state using a clean UI and Firebase backend services.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📊 Mood tracking with custom icons and colors
+- 🔐 Firebase Authentication (sign up, login, reset password)
+- ☁️ Real-time data storage with Firebase Firestore
+- 🎨 Clean UI with responsive design for mobile and web
+- 🔧 Dark/light theme toggle *(optional)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧰 Tech Stack
+
+| Tech       | Use                             |
+|------------|----------------------------------|
+| Flutter    | Frontend (Dart)                 |
+| Firebase   | Auth + Firestore backend        |
+| Firestore  | Cloud database for mood entries |
+| GitHub     | Version control & collaboration |
+
+---
+
+## 🖼️ Screenshots
+
+> Add these under `/assets/screenshots/` and reference them here like:
+
