@@ -2,7 +2,7 @@
 
 > Track your mood one bite at a time.
 
-MoodBites is a cross-platform Flutter app that helps users track and reflect on their emotional state using a clean UI and Firebase backend services.
+MoodBites is a cross-platform Flutter app I built that helps users track and reflect on their emotional state using a clean UI and Firebase backend services.
 
 ---
 
@@ -12,7 +12,6 @@ MoodBites is a cross-platform Flutter app that helps users track and reflect on 
 - 🔐 Firebase Authentication (sign up, login, reset password)
 - ☁️ Real-time data storage with Firebase Firestore
 - 🎨 Clean UI with responsive design for mobile and web
-- 🔧 Dark/light theme toggle *(optional)*
 
 ---
 
