@@ -25,8 +25,3 @@ MoodBites is a cross-platform Flutter app I built that helps users track and ref
 | GitHub     | Version control & collaboration |
 
 ---
-
-## 🖼️ Screenshots
-
-> Add these under `/assets/screenshots/` and reference them here like:
-
